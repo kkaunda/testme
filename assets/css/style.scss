@@ -1,7 +1,9 @@
 ---
 ---
 // Example: The "Electric" Fading Scheme
-$header-bg-color: #4158D0;
+// $header-bg-color: #4158D0;
+// $header-bg-color-secondary: #C850C0;
+$header-bg-color: #C850C0;
 $header-bg-color-secondary: #C850C0;
 
 @import "{{ site.theme }}";
